@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Note: You will need to create a file called token.js in the src/ directory that `export default`s the apple music api token as a string.
+
 ## Available Scripts
 
 In the project directory, you can run:

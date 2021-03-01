@@ -14,7 +14,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /*background-color: #282c34;*/
+  background-color: #fa243c; /* Taken from color of buttons on apple music homepage*/
+  /*background-color: #fff;*/
   min-height: 100vh;
   display: flex;
   flex-direction: column;
