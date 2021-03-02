@@ -8,7 +8,7 @@ function SongsPerAlbumChart(props) {
         labels: props.names,
         datasets: [
             {
-                label: 'Popularity',
+                label: 'Tracks',
                 backgroundColor: 'rgba(75,192,192,1)',
                 borderColor: 'rgba(0,0,0,1)',
                 borderWidth: 2,
