@@ -60,7 +60,7 @@ function Artist(props) {
             <div>
                 <h2>name: {name}</h2>
                 <h4>Genres: {genres}</h4>
-                <h4>Average of {avgSongs} per track</h4>
+                <h4>Average of {avgSongs} songs per album</h4>
                 <br/>
                 <Albums artistID={id} albumHrefs={albumHrefs} avgSongsPerAlbumCallback={avgSongsPerTrack}/>
 
